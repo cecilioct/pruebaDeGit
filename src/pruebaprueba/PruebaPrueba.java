@@ -18,6 +18,7 @@ public class PruebaPrueba {
         // TODO code application logic here
         String nombre="";
         System.out.println("This is "+nombre+" MF");
+        System.out.println("This is "+nombre+" BITCH");
     }
     
 }
